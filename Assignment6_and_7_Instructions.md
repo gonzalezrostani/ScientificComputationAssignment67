@@ -17,13 +17,13 @@ The group has tasked you with combining the pieces in ways that they can be indi
 
 # Assignment 6
 
-For Assignment 6, if you choose to accept it, you will need to download the files from this link XXLinkHereXX.
+For Assignment 6, if you choose to accept it, you will need to download the files from [this link](https://github.com/colaresi/ScientificComputationAssignment67/archive/master.zip)
 
 Create a new directory for Assignment6 on your local machine, make sure it includes all of the downloaded files, unzipped (you might need to use the command line unzip tool). 
 
 Your job is to write a make file that takes all of the individual files and puts them together to make a website. The order is as given above. 
 
-When you are done, turn in your Makefile on canvas.
+When you are done, turn in your Makefile on canvas in the Assignment 6 slot.
 
 Hint: you will need to use your bash/zsh knowledge to concatenate the indiviual files together in the Makefile "steps"/"process". 
 
@@ -52,4 +52,4 @@ In this branch, change your Makefile so that it creates both an html file and a 
 Name the new first target `all`, no quotation marks, and list both the .html output and the .pdf output as dependencies. 
 
 7. Commit those changes to your local repo and push them to a new branch on your remote github repo. 
-8. On Canvas you should turn in the url of your remote repo where I can view and clone your work to check it.  
+8. On Canvas you should turn in the url of your remote repo where I can view and clone your work to check it. Make sure you use the Assignment 7 slot for this one. 
