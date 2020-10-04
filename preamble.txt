@@ -1,7 +1,7 @@
-----
-title: Not so accurate: Why accuracy is poor performance metric for computational social science applications
+---
+title: "Not so accurate: Why accuracy is poor performance metric for computational social science applications"
 author: Pem Div
-----
+---
 
 # Abstract
 
