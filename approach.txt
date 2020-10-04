@@ -5,7 +5,7 @@ As the map makes clear, violence prediction has strong spatial components; yet t
 In each of these classes, the bin-by-metrics take on the form:
 
 $$
-\sum_{i}^{M} f(y_{i}, \hat{y}_{i}
+\sum_{i}^{M} f(y_{i}, \hat{y}_{i})
 $$
 
 Where for accuracy, $f$ is replaced with the indicator functions:
